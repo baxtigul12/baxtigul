@@ -5,7 +5,7 @@
 
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4CAF50,100:000000&text=Hii%20I'm%20Asadbek_Ro'ziboyev%20Welcome%20to%20my%20GitHub%20profile!&fontSize=30&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4CAF50,100:000000&text=Hii%20I'm%20%20Welcome%20to%Baxtigul_Rozibayeva20my%20GitHub%20profile!&fontSize=30&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
 </p>
 
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
@@ -34,8 +34,4 @@ Yangi narsalarni o'rganish
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbek11211&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbek11211&theme=neon&hide_border=true" width="100%" />
 </p>
